@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **ReactJS**
 
-- 💬 Ask me about **Tech,Website Development,Software Development, Ethical Hacking**
+- 💬 Ask me about **Tech,Website Development,Software Development,Machine Learning,Ethical Hacking**
 
 - 📫 How to reach me **RavishkaVijayarathnaofficial@gmail.com**
 
